@@ -16,5 +16,5 @@ Recommender systems are trained to understand the preferences, previous decision
 
 3.Collaborative Filtering
    
-4.Ensemble method
+4.Hybrid method
 
