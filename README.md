@@ -14,7 +14,7 @@ Recommender systems are trained to understand the preferences, previous decision
   - Movie Cast, Crew, Keywords and Genre- Metadata based
   - Popularity-Based
 
-3. Collaborative Filtering
+3.Collaborative Filtering
    
-4. Ensemble method
+4.Ensemble method
 
